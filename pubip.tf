@@ -11,5 +11,5 @@ name = "finalrg"
 } 
 
 variable "user-inp" {
-  description = "Enter name for public ip"
+  description = "Enter name for public ip for terraform cloud"
 }
